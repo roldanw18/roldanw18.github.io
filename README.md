@@ -1,6 +1,5 @@
 # roldanw18.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
 Página Sencilla 
