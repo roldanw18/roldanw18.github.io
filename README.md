@@ -11,7 +11,7 @@
 	</header>
 	<main>
 		<p>Esta es una página sencilla creada con HTML.</p>
-		<img src="[https://via.placeholder.com/150](https://th.bing.com/th/id/R.5e1bd27c3a550acaaceb27a583d38b01?rik=aLE9RMYb8k0a9A&pid=ImgRaw&r=0)" alt="Imagen de ejemplo">
+		<img src="https://th.bing.com/th/id/R.5e1bd27c3a550acaaceb27a583d38b01?rik=aLE9RMYb8k0a9A&pid=ImgRaw&r=0">
 	</main>
 </body>
 </html>
