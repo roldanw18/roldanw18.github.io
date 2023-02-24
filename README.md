@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mi Página Sencilla</title>
+Página Sencilla 
 </head>
 <body>
 	<header>
